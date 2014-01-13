@@ -1,0 +1,6 @@
+C:\Users\201312181527\Documents\Visual Studio 2012\Projects\SocketAsyncServerTest\SocketAsyncServerTest\bin\Debug\SocketAsyncServerTest.exe.config
+C:\Users\201312181527\Documents\Visual Studio 2012\Projects\SocketAsyncServerTest\SocketAsyncServerTest\bin\Debug\SocketAsyncServerTest.exe
+C:\Users\201312181527\Documents\Visual Studio 2012\Projects\SocketAsyncServerTest\SocketAsyncServerTest\bin\Debug\SocketAsyncServerTest.pdb
+C:\Users\201312181527\Documents\Visual Studio 2012\Projects\SocketAsyncServerTest\SocketAsyncServerTest\obj\Debug\SocketAsyncServerTest.csprojResolveAssemblyReference.cache
+C:\Users\201312181527\Documents\Visual Studio 2012\Projects\SocketAsyncServerTest\SocketAsyncServerTest\obj\Debug\SocketAsyncServerTest.exe
+C:\Users\201312181527\Documents\Visual Studio 2012\Projects\SocketAsyncServerTest\SocketAsyncServerTest\obj\Debug\SocketAsyncServerTest.pdb
